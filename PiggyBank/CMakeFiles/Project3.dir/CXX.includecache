@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student/Desktop/Project3/Graph.cpp
+Graph.h
+/home/student/Desktop/Project3/Graph.h
+Node.h
+/home/student/Desktop/Project3/Node.h
+
+/home/student/Desktop/Project3/Graph.h
+fstream
+-
+stack
+-
+Node.h
+/home/student/Desktop/Project3/Node.h
+
+/home/student/Desktop/Project3/Node.h
+vector
+-
+
+/home/student/Desktop/Project3/main.cpp
+iostream
+-
+Graph.h
+/home/student/Desktop/Project3/Graph.h
+fstream
+-
+
